@@ -1,2 +1,2 @@
 # apnacollege-demo
-This is a demo a repository
+This is a demo repository
